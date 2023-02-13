@@ -3,3 +3,5 @@ for a given player name and can make predictions using the ML models for draft p
 natural language processing techniques.
 
 This project was presented at the 2023 CUCAI competition. A front-end web app is in development
+
+Please run the test_main.py script
