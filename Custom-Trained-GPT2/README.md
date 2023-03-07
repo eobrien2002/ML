@@ -1,6 +1,5 @@
 Custom Trained GPT2 Model to finish your sentence. Trained on a corpus of NHL interviews.
 
-Test --> Run the chatbot
+run_ChatBot --> How to run the chatbot
 
-
-Train_GPT2 --> How I custom trained GPT2 model
+Train_GPT2 --> How I custom trained the GPT2 model on the corpus
