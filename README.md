@@ -11,6 +11,10 @@ This project was presented at the CUCAI 2023 design showcase to AI industry lead
 https://user-images.githubusercontent.com/118325725/230187248-d8dce823-fafd-4532-9974-e955e3744bf2.mp4
 
 
+Academic Paper: [Predicting the NHL Draft - CUCAI Paper.pdf](https://github.com/eobrien2002/ML/files/11162484/Predicting.the.NHL.Draft.-.CUCAI.Paper.pdf)
+
+
+
 ## DataQuests 2023
 
 This project was for the 2023 DataQuest Hackathon as part of the Western AI Club. The notebook walks through exploratory data analysis, feature engineering, feature reduction with PCA, and various ML models. Logistic Regression, K-Neighest Neighbours, Support Vector Machines, Decision Trees, Random Forest, XG Boost, MLP, CNN, and RNN models were tested. These base models were improved with ensemble methods such as bagging and AdaBoost and tuned with a Gird Search algorithm. The Neural Networks were tuned using a Hyperband algorithm.
