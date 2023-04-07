@@ -3,7 +3,7 @@
 
 ## NHL Chatbot
 
-This is an implementation of the notebook in NHL Draft Predictions. It takes the models trained in the notebook and creates a retrieval-based chatbot that can make draft pick predictions and retrieve NHL player stats. To understand user intent, I built an algorithm that converts user input to Wrd2Vec embeddings and compares the similarity to a predefined set of responses. This allows the chatbot to move down either branch of the decision logic to make draft pick predictions or retrieve stats. 
+This is an implementation of the notebook in NHL Draft Predictions. It takes the models trained in the notebook and creates a retrieval-based chatbot that can make draft pick predictions and retrieve NHL player stats. To understand user intent, I built an algorithm that converts user input to Word2Vec embeddings and compares the similarity to a predefined set of responses. This allows the chatbot to move down either branch of the decision logic to make draft pick predictions or retrieve stats. 
 
 This project was presented at the CUCAI 2023 design showcase to AI industry leaders. Check out my LinkedIn for a demo of the full-stack development my team and I built to implement this code
 
